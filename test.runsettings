@@ -1,0 +1,6 @@
+﻿<RunSettings>
+  <TestRunParameters>
+    <!--<Parameter name="VirtualDirectory" value="Synergy_504" />-->
+    <Parameter name="Headless" value="false" />
+  </TestRunParameters>
+</RunSettings>
